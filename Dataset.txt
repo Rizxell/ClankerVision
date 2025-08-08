@@ -1,0 +1,6 @@
+Dataset real case bisa di download dari
+
+coco :https://cocodataset.org
+UA-DETRAC : https://sites.google.com/view/daweidu/projects/ua-detrac
+MIO-TCD : https://tcd.miovision.com/
+DATASET REALCASE SURAKARTA : https://drive.google.com/drive/folders/1Fu5FWGJeIdk0pDW_tnhYvm-1em0dQ_e8?usp=sharing
