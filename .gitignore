@@ -64,3 +64,6 @@ cache/
 
 # Training runs (optional - keep training results)
 # runs/
+
+# TrackEval (embedded git repository)
+evaluasi/TrackEval/
